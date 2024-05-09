@@ -191,22 +191,23 @@ confusion_matrix(test_image_gen.classes,predictions)
 
 ### Training Loss, Validation Loss Vs Iteration Plot
 
-![image](https://github.com/guru14789/malaria-cell-recognition/assets/151705853/6093c14d-1413-41a9-a972-8ff417621fd3)
+![Screenshot 2024-05-09 101855](https://github.com/guru14789/malaria-cell-recognition/assets/151705853/58eb2090-d7e1-4c3e-9e59-1f21c4f84142)
+
 
 
 ### Classification Report
 
-![image](https://github.com/guru14789/malaria-cell-recognition/assets/151705853/2022eb88-19a0-4dcf-a68e-2af2b1f9da8d)
+![Screenshot 2024-05-09 101901](https://github.com/guru14789/malaria-cell-recognition/assets/151705853/582d4ace-389b-4019-8279-7bedf04e4039)
 
 ### Confusion Matrix
+![Screenshot 2024-05-09 101906](https://github.com/guru14789/malaria-cell-recognition/assets/151705853/47a06040-92a6-4d87-a008-371e00e2f8d4)
 
 
-![image](https://github.com/guru14789/malaria-cell-recognition/assets/151705853/f8266fe2-727e-4b0e-8f00-ce615a796e89)
 
 
 
 ### New Sample Data Prediction
-![image](https://github.com/guru14789/malaria-cell-recognition/assets/151705853/53a91820-0616-4151-88f9-63427f02865e)
+![Screenshot 2024-05-09 101912](https://github.com/guru14789/malaria-cell-recognition/assets/151705853/528f430f-9b36-4991-9100-1d7639837322)
 
 
 
